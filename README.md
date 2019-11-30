@@ -1,2 +1,2 @@
 # computer-simulation
-This is our course project for FIN 285
+Asset Allocation and Risk Assessment in Python
